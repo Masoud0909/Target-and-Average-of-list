@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Target and Average of list", "Target and Average of list.pyproj", "{CAD3DF0B-0328-4272-AD33-06B1ED72CFEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD3DF0B-0328-4272-AD33-06B1ED72CFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD3DF0B-0328-4272-AD33-06B1ED72CFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91E25029-9C33-4E4C-ADEB-BF9E708ED64A}
+	EndGlobalSection
+EndGlobal
